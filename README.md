@@ -44,3 +44,7 @@ The objective of this project is to evaluate the connectivity and bandwidth perf
 ### Project 3:
 
 This project delves into the utilization of Mininet for constructing a network topology comprising 12 hosts and 11 switches. It further explores the programmable definition of flow rules on the switches to direct traffic between specific host IP addresses, employing the OpenFlow protocol. Additionally, the project explores the realm of software-defined networking within the utilization of the Floodlight controller on the Unix operating system.
+
+<p align="center">
+  <img src="https://github.com/MelvinMo/CN2_Course_Archive/blob/main/Projects/3/topology.jpg" alt="IMG" />
+</p>
